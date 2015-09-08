@@ -27,8 +27,9 @@ public class Point2D{
 		}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Point2D p = new Point2D(0, 5);
+		System.out.println(p.toString());
+		return;
 	}
 
 }
